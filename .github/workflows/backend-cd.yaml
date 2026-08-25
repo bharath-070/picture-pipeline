@@ -16,7 +16,7 @@ env:
   PYTHON_VERSION: "3.10"
   AWS_REGION: us-east-1
   ECR_REPOSITORY: backend
-  EKS_CLUSTER_NAME: scrumptious-folk-goose
+  EKS_CLUSTER_NAME: cluster
 
 jobs:
   lint:
